@@ -9,6 +9,7 @@ function App() {
   return (
     <div>
       Hello World!
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi, assumenda!</p>
     </div>
   )
 }
